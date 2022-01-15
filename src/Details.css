@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+
+.details__background{
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    
+} 
+.details__background img{
+    width: 100%;
+}
+.details__description{
+    letter-spacing: 1px;
+    
+}
+ 
+.details__content{
+    position: absolute;
+    background-size: cover;
+    width: 50%;
+    text-align: start;
+    top: 5%;
+    color: white;
+    margin-left: 40px;
+    
+}
+.trailerButton{
+    
+    align-items: center;
+
+}
+.trailerButton:hover{
+    opacity: 2;
+    box-shadow: 2px 3px rgb(21, 20, 20);
+    
+} 
+ 
+
+
+ 

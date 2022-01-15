@@ -1,0 +1,24 @@
+.video{
+    
+    width: 100%;
+}
+
+.trailer{
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+.trailer__btn{
+    position: absolute;
+    background-size: cover;
+    
+    
+    top: 65%;
+
+
+    
+    color: white;
+    
+    
+} 
